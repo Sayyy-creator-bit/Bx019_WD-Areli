@@ -1,0 +1,17 @@
+
+html {
+
+    font-family: sans-serif;
+    color: rgb(10, 10, 10);
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    background-color: rgba(3, 248, 97, 0.897);
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    font-size:larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 3px 3px #fafafa;
+}
